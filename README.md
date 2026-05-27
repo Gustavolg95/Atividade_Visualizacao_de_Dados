@@ -1,6 +1,6 @@
 # 📊 Visualização de Dados — IMDB
 
-Projeto de visualização interativa de dados do IMDB, desenvolvido como atividade prática da disciplina de Visualização de Dados.
+Projeto de visualização interativa de dados do IMDB, desenvolvido como atividade prática da disciplina de Visualização de Dados. Com base no [Banco de Dados do IMDb Filmes](https://basedosdados.org/dataset/6ba4745d-f131-4f8e-9e55-e8416199a6af?table=79de8c5e-9c21-4398-a9fb-bc40e6d6e77f), disponibilizado pela [Base dos Dados](https://basedosdados.org)
 
 ## 🔗 Demo ao vivo
 
